@@ -1,0 +1,188 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="ClinicManagementsystem.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <%--bootstrap css--%>
+    <link href="Bootstrap/css/cdn.jsdelivr.net_npm_bootstrap@5.3.2_dist_css_bootstrap.rtl.min.css" rel="stylesheet" />
+
+     <%--datatable css--%>
+    <link href="datatables/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+     <%--fontawsome css--%>
+    <link href="fontawsome/css/all.css" rel="stylesheet" />
+   
+     <%--custome css--%>
+    <link href="css/customstylesheet.css" rel="stylesheet" />
+
+     <%--jquery--%>
+    <script src="Bootstrap/js/code.jquery.com_jquery-3.3.1.slim.min.js"></script>
+
+    <script src="Bootstrap/js/cdn.jsdelivr.net_npm_popper.js@1.14.7_dist_umd_popper.min.js"></script>
+
+    <script src="Bootstrap/js/cdn.jsdelivr.net_npm_bootstrap@4.3.1_dist_js_bootstrap.min.js"></script>
+
+    <%--DataTables js--%>
+    <script src="datatables/jquery/jquery.dataTables.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        
+        <div>
+
+            <nav id="nav" class="navbar navbar-expand-lg " > 
+                 <a class="navbar-brand" href="#" style="color:whitesmoke">
+                    <img src="imgs/Screenshot%202024-01-15%20221220.png" width="180" height="50"/>
+                   </a>
+               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                   </button>
+                   <div class="collapse navbar-collapse" id="navbarSupportedContent" >
+                    <ul class="navbar-nav mr-right"    >
+                        <li class="nav-item active">
+                            <a class="nav-link" href="homepage.aspx"  style="color:black; font-weight: 500;">Home</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="about.aspx" style="color:black; font-weight: 500;">About Us</a>
+                        </li>
+                       
+
+                    </ul>
+                       
+                       
+             
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            <asp:LinkButton class="nav-link " ID="LinkButton14" runat="server" style="color:black; font-weight: 500;" OnClick="LinkButton14_Click"> Doctor's Details</asp:LinkButton>
+                        </li>
+                         <li class="nav-item active">
+                             <asp:LinkButton class="nav-link" ID="LinkButton15" runat="server"  style="color:black; font-weight: 500;" OnClick="LinkButton15_Click">Appointment</asp:LinkButton>
+                           </li>
+                        <li class="nav-item active">
+                            <asp:LinkButton class="nav-link" ID="LinkButton19" runat="server" style="color:black; font-weight: 500;" OnClick="LinkButton19_Click">Bed Booking</asp:LinkButton>
+                        </li>
+                                                  <li class="nav-item active">
+                             <asp:LinkButton class="nav-link" ID="LinkButton18" runat="server" style="color:black; font-weight: 500;" Visible="False" OnClick="LinkButton18_Click">Prescription</asp:LinkButton>
+                           </li>
+                                               <li class="nav-item active">
+  <asp:LinkButton class="nav-link" ID="LinkButton20" runat="server" style="color:black; font-weight: 500;" Visible="False" OnClick="LinkButton20_Click">Bill</asp:LinkButton>
+</li>
+                        
+                        <li class="nav-item active">
+                            <asp:LinkButton class="nav-link" ID="LinkButton1" runat="server" style="color:black; font-weight: 500;" OnClick="LinkButton1_Click"> Login</asp:LinkButton>
+                        </li>
+                        <li class="nav-item active">
+                            <asp:LinkButton class="nav-link" ID="LinkButton2" runat="server" style="color:black; font-weight: 500;" OnClick="LinkButton2_Click">Sign Up</asp:LinkButton>
+                        </li>
+                        <li class="nav-item active">
+                            <asp:LinkButton class="nav-link" ID="LinkButton3" runat="server" style="color:black; font-weight: 500;" Visible="False" OnClick="LinkButton3_Click">Logout</asp:LinkButton>
+                        </li>
+
+
+                        <li class="nav-item active">
+                            <asp:LinkButton class="nav-link" ID="LinkButton7" runat="server" style="color:black; font-weight: 500;" Visible="False"><b>Hello user</b></asp:LinkButton>
+
+                        </li>
+                    </ul>
+                
+                </div>
+            </nav>
+
+        </div>
+
+         <!-- Main Content Placeholder -->
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <!-- Main Content Placeholder -->
+
+          <!-- Footer -->
+        <div style="    background: #f2f5f7;" >
+     <br />
+ </div>
+        <footer>
+            <div id="footer1" class="container-fluid">
+                 
+                  <div class="row">
+                     
+                       
+                        <div class="col-md-4">
+                            
+                            <br />
+                           <h4 Style="color:whitesmoke" ><b> Links</b></h4> 
+                            <asp:LinkButton class="footerlinks" ID="LinkButton6" runat="server" OnClick="LinkButton6_Click"> <p Style="color:whitesmoke">
+   Admin Login<p /></asp:LinkButton>
+                             <asp:LinkButton class="footerlinks" ID="LinkButton16" runat="server" OnClick="LinkButton16_Click" Visible="False"> <p Style="color:whitesmoke">
+Doctor's Login<p /></asp:LinkButton>
+                               <asp:LinkButton class="footerlinks" ID="LinkButton10" runat="server" OnClick="LinkButton10_Click" Visible="False"> <p Style="color:whitesmoke">
+                                  Patient Managment<p /></asp:LinkButton>
+                                  
+                                 <asp:LinkButton class="footerlinks" ID="LinkButton5" runat="server" OnClick="LinkButton5_Click" Visible="False"> <p Style="color:whitesmoke">
+     Offline Appointment <p /></asp:LinkButton>
+                                
+                             <asp:LinkButton class="footerlinks" ID="LinkButton9" runat="server" OnClick="LinkButton9_Click" Visible="False"> <p Style="color:whitesmoke">
+ Doctor Details<p /></asp:LinkButton>
+     <asp:LinkButton class="footerlinks" ID="LinkButton13" runat="server" OnClick="LinkButton13_Click" Visible="False"> <p Style="color:whitesmoke">
+Nurse profile<p /></asp:LinkButton>
+                            <asp:LinkButton class="footerlinks" ID="LinkButton11" runat="server" OnClick="LinkButton11_Click">Bed Booking </asp:LinkButton>
+                               <br /> <br />
+                            <asp:LinkButton class="footerlinks" ID="LinkButton4" runat="server" OnClick="LinkButton4_Click"> online Appointment </asp:LinkButton>
+                                <br /> 
+                            <asp:LinkButton class="footerlinks" ID="LinkButton17" runat="server" OnClick="LinkButton17_Click"> Prescription </asp:LinkButton>
+                                <br /> 
+                             <asp:LinkButton class="footerlinks" ID="LinkButton8" runat="server" OnClick="LinkButton8_Click"> Bill </asp:LinkButton>
+                          
+                            &nbsp;
+                            </div>
+                        <div class="col-md-4">
+                            
+                            <p  runat="server" style="color:whitesmoke"><h4 style="color:white; "><b> Address</b></h4>
+                                <p style="color:whitesmoke ; font-weight:0px">
+                                    Krishna Clinic , shop no. 4 <br />
+                                    Viraj Residency , Nr. Deshpande Ram Temple  <br />
+                                    Dhyari, pune, 411041 <br />
+                                  <p style="color:whitesmoke"> Email: dryogita823@gmail.com</p>
+                                    
+                                </p>
+                            </p>
+                            &nbsp;
+
+                        </div>
+                      <div class="col-md-4" >
+                         
+                            <p  runat="server" style="color:white" ><h4 style="color:white"><b>Contact</b></h4>
+                               
+                                     
+                                   <p style="color:white"> 9834621045</p>
+                                   
+                                    <p style="color:white"> 7972353539</p>
+                                  
+                                   
+                                    
+                                </p>
+                            
+
+                            &nbsp;
+                          </div>
+                         
+                    </div>
+            </div>
+            <div id="footer2" class="container-fluid">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                        <p style="color:white">&copy All right Reversed. <a class="footerlinks" href="#" target="_blank" style="color:blue">KRISHNA CLINIC</a></p>
+                    </div>
+                </div>
+            </div>
+
+        </footer>
+        <!-- ./Footer -->
+    </form>
+</body>
+</html>

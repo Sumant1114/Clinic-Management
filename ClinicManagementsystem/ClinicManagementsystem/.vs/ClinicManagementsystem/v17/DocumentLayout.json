@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\onlinebedbooking.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:onlinebedbooking.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\onlinebedbooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:onlinebedbooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\onlineappointment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:onlineappointment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\onlineappointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:onlineappointment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\doctordetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:doctordetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\appointmentsection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:appointmentsection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_prescription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:user_prescription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_prescription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:user_prescription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\bill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:bill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|c:\\users\\satuc\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_bill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:user_bill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_bill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:user_bill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\bill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:bill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\satuc\\AppData\\Local\\Temp\\.vsdbgsrc\\9e0fc14bc4d6ea41ae84880890d3cbb2ec5d49ded0e01399fc66e489649caa9c\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminprescriptionmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:adminprescriptionmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminprescriptionmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:adminprescriptionmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\doctor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:doctor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminappoitmentmanagment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:adminappoitmentmanagment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminappoitmentmanagment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:adminappoitmentmanagment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\admin_bedbooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:admin_bedbooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\doctor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:doctor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\appointmentsection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:appointmentsection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\viewdoctordetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{09C84DA9-E50B-4327-8197-FE461A10D806}|ClinicManagementsystem2.csproj|solutionrelative:viewdoctordetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "user_bill.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_bill.aspx.cs",
+              "RelativeDocumentMoniker": "user_bill.aspx.cs",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_bill.aspx.cs",
+              "RelativeToolTip": "user_bill.aspx.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwCUAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:31:55.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bill.cs",
+              "DocumentMoniker": "C:\\Users\\satuc\\AppData\\Local\\Temp\\.vsdbgsrc\\9e0fc14bc4d6ea41ae84880890d3cbb2ec5d49ded0e01399fc66e489649caa9c\\bill.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\9e0fc14bc4d6ea41ae84880890d3cbb2ec5d49ded0e01399fc66e489649caa9c\\bill.cs",
+              "ToolTip": "C:\\Users\\satuc\\AppData\\Local\\Temp\\.vsdbgsrc\\9e0fc14bc4d6ea41ae84880890d3cbb2ec5d49ded0e01399fc66e489649caa9c\\bill.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\9e0fc14bc4d6ea41ae84880890d3cbb2ec5d49ded0e01399fc66e489649caa9c\\bill.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:30:49.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bill.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\bill.aspx.cs",
+              "RelativeDocumentMoniker": "bill.aspx.cs",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\bill.aspx.cs",
+              "RelativeToolTip": "bill.aspx.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwGMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:27:29.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bill.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\bill.aspx",
+              "RelativeDocumentMoniker": "bill.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\bill.aspx",
+              "RelativeToolTip": "bill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T16:25:50.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user_prescription.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_prescription.aspx.cs",
+              "RelativeDocumentMoniker": "user_prescription.aspx.cs",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_prescription.aspx.cs",
+              "RelativeToolTip": "user_prescription.aspx.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:52:42.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user_prescription.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_prescription.aspx",
+              "RelativeDocumentMoniker": "user_prescription.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_prescription.aspx",
+              "RelativeToolTip": "user_prescription.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T14:50:14.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adminprescriptionmanagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminprescriptionmanagement.aspx.cs",
+              "RelativeDocumentMoniker": "adminprescriptionmanagement.aspx.cs",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminprescriptionmanagement.aspx.cs",
+              "RelativeToolTip": "adminprescriptionmanagement.aspx.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:24:04.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appointmentsection.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\appointmentsection.aspx",
+              "RelativeDocumentMoniker": "appointmentsection.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\appointmentsection.aspx",
+              "RelativeToolTip": "appointmentsection.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-21T20:25:17.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnlineAppointment.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\OnlineAppointment.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineAppointment.aspx.cs",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\OnlineAppointment.aspx.cs",
+              "RelativeToolTip": "OnlineAppointment.aspx.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:37:03.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "adminappoitmentmanagment.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminappoitmentmanagment.aspx",
+              "RelativeDocumentMoniker": "adminappoitmentmanagment.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminappoitmentmanagment.aspx",
+              "RelativeToolTip": "adminappoitmentmanagment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-04T06:17:09.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "homepage.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\homepage.aspx",
+              "RelativeDocumentMoniker": "homepage.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\homepage.aspx",
+              "RelativeToolTip": "homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-21T17:42:56.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "adminappoitmentmanagment.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminappoitmentmanagment.aspx.cs",
+              "RelativeDocumentMoniker": "adminappoitmentmanagment.aspx.cs",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminappoitmentmanagment.aspx.cs",
+              "RelativeToolTip": "adminappoitmentmanagment.aspx.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAIwIgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:11:24.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-02T19:12:59.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnlineAppointment.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\OnlineAppointment.aspx",
+              "RelativeDocumentMoniker": "OnlineAppointment.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\OnlineAppointment.aspx",
+              "RelativeToolTip": "OnlineAppointment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-21T20:38:50.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineBedbooking.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\OnlineBedbooking.aspx",
+              "RelativeDocumentMoniker": "OnlineBedbooking.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\OnlineBedbooking.aspx",
+              "RelativeToolTip": "OnlineBedbooking.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-21T20:39:19.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appointmentsection.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\appointmentsection.aspx.cs",
+              "RelativeDocumentMoniker": "appointmentsection.aspx.cs",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\appointmentsection.aspx.cs",
+              "RelativeToolTip": "appointmentsection.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:20:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "doctor.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\doctor.aspx",
+              "RelativeDocumentMoniker": "doctor.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\doctor.aspx",
+              "RelativeToolTip": "doctor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-21T20:25:35.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "doctordetails.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\doctordetails.aspx",
+              "RelativeDocumentMoniker": "doctordetails.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\doctordetails.aspx",
+              "RelativeToolTip": "doctordetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-21T20:37:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "admin_bedbooking.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\admin_bedbooking.aspx",
+              "RelativeDocumentMoniker": "admin_bedbooking.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\admin_bedbooking.aspx",
+              "RelativeToolTip": "admin_bedbooking.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T10:47:31.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "doctor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\doctor.aspx.cs",
+              "RelativeDocumentMoniker": "doctor.aspx.cs",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\doctor.aspx.cs",
+              "RelativeToolTip": "doctor.aspx.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:15:45.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "viewdoctordetails.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\viewdoctordetails.aspx",
+              "RelativeDocumentMoniker": "viewdoctordetails.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\viewdoctordetails.aspx",
+              "RelativeToolTip": "viewdoctordetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-21T20:41:47.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "user_bill.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_bill.aspx",
+              "RelativeDocumentMoniker": "user_bill.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\user_bill.aspx",
+              "RelativeToolTip": "user_bill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-21T20:39:50.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "adminprescriptionmanagement.aspx",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminprescriptionmanagement.aspx",
+              "RelativeDocumentMoniker": "adminprescriptionmanagement.aspx",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\adminprescriptionmanagement.aspx",
+              "RelativeToolTip": "adminprescriptionmanagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-21T20:24:58.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineBedbooking.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\OnlineBedbooking.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineBedbooking.aspx.cs",
+              "ToolTip": "C:\\Users\\satuc\\source\\repos\\ClinicManagementsystem\\ClinicManagementsystem\\OnlineBedbooking.aspx.cs",
+              "RelativeToolTip": "OnlineBedbooking.aspx.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T21:12:42.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
